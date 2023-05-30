@@ -1,0 +1,57 @@
+=== GAME RULES ===
+
+* Every card has a number associated with it. Every round starts with you taking a card, i.e., a number.
+* When you take a number, Fate takes every factor of that number still on the table.
+* You can only take a number if it has at least one other factor on the table.
+* Fate takes all the remaining cards when you run out of moves.
+* The card details can be found in the next section.
+* To win, the sum of your cards must be greater than that of Fate's cards at the end of the game. Fate wins on a tie.
+* [NOT IMPLEMENTED YET] Certain cards grant special rewards if you take them AND win the duel.
+
+
+=== CARD DETAILS ===
+
+Card Name    | Value
+-------------+-------
+Morshed      | 1
+Toto         | 2
+Tanna        | 3
+Noot Noot    | 4
+Arefin Zaman | 5
+Shib Lee     | 6
+Malaysia     | 7
+Junayed      | 8
+Xisun        | 9
+Xara Zenny   | 10
+Megamind     | 11
+Xydar        | 12
+Neivy        | 13
+Alphonse     | 14
+Nekorin      | 15
+Armstrong    | 16
+Black Haze   | 17
+Zubair       | 18
+Zeronfinity  | 19
+Salt Tan     | 20
+Hawkman      | 21
+Daisy Ltar   | 22
+Tikum        | 23
+Rubz         | 24
+Nifera       | 25
+Fikas        | 26
+Seraphen     | 27
+Aysha        | 28
+Era Zora     | 29
+Mehbleh      | 30
+Kumajin      | 31
+Shiro        | 32
+Mannequin    | 33
+Heenaiza     | 34
+Childhood    | 35
+
+
+=== MODIFICATION DETAILS ===
+You are free to modify the values of the cards as you see fit for a custom version of your game.
+However, remember that the game operates using numbers and their factors.
+Make sure to mathematically double-check whether the card interactions with the new values are legit and functional.
+
